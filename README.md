@@ -6,7 +6,7 @@ Edit
 
 ![Python](https://img.shields.io/badge/Python-3.9-blue.svg)
 ![Selenium](https://img.shields.io/badge/Selenium-Automation-green.svg)
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
+
 
 A robust, maintainable automation framework built using **Selenium WebDriver**, **Python**, and **PyTest** following the **Page Object Model (POM)** design pattern.
 
