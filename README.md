@@ -97,3 +97,7 @@ pytest tests/test_login.py --html=reports/report.html
 Valid login test (student / Password123)
 
 Invalid login test (wronguser / wrongpass)
+
+
+Working Demo:
+<img width="1914" height="904" alt="image" src="https://github.com/user-attachments/assets/83690f36-843a-4be7-970d-ba4ec2433d79" />
